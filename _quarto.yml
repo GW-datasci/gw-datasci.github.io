@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  # page-footer:
+  #   center: 
+  #     - text: "About"
+  #       href: about.qmd
+  favicon: "data/images/gw-logo.png"
+  sidebar:
+    style: "floating"
+    logo: "data/images/gw-logo.png"
+    tools:
+    - icon: github
+      href: "https://github.com/GW-datasci"
+    - icon: linkedin
+      href: https://www.linkedin.com/groups/8835265/
+    - icon: envelope
+      href: mailto:datasci@gwu.edu
+    contents:
+      - section: "Help Desk"
+        contents:
+          - text: "Office Hours"
+            href: content/helpdesk/office-hours.qmd
+          - text: "Services"
+            href: content/helpdesk/services.qmd
+          - text: "Installation Guides"
+            href: content/helpdesk/installation-guides.qmd
+          - text: "Schedule Appointment"
+            href: content/helpdesk/schedule-appointment.qmd
+          # - text: "FAQ"
+  #     - section: "Academic Resources"
+  #       contents:
+  #         - text: Data Science Setup
+  #           href: content/academic-resources/data-science-setup.qmd
+  #         - text: Learning Resources
+  #           href: content/academic-resources/learning-resources.qmd
+  #         - text: Cheatsheets
+  #         - text: Course Roadmap
+  #           href: content/academic-resources/course-roadmap.qmd
+  #         - text: Python for Data Science
+  #         - text: Math for Data Science
+  #     - section: "Research"
+  #       contents:
+  #         - text: "Template"
+  #         - text: "Previous Research"
+  #         - text: "Proposals"
+  #     - section: "Capstone"
+  #       contents:
+  #         - text: "Template"
+  #         - text: "Previous Capstone"
+  #           href: content/capstone/previous-capstone.qmd
+  #         - text: "Proposals"
+  # search: 
+  #   location: sidebar
+
+format:
+  html:
+    bread-crumbs: false
+    grid:
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    toc: true
+    mainfont: "Avenir-Next"
+    css: styles.css

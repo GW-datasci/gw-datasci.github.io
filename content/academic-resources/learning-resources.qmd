@@ -1,0 +1,136 @@
+---
+title: "Learning Resources"
+format:
+  html: 
+    embed-resources: true
+    code-copy: true
+  pdf: default
+---
+
+::: {.callout-note appearance="simple" icon=false}
+Welcome to the Learning Resources tab—your gateway to knowledge, growth, and the occasional “_Wait… I swear it worked yesterday!_” moment. Before you dive into the deep end of learning, grab your coffee, take a deep breath, and prepare to level up your skills. 📚
+:::
+
+## YouTube Videos 📺
+
+> These videos provide a solid foundation in key mathematical and programming concepts essential for data science. Whether you're brushing up on Python, R, linear algebra, or probability, these resources will help reinforce your understanding through visual and practical examples.
+
+::: {.subfigures layout-ncol="3" style = "text-align:center;"}
+  
+::: {.subfigure}
+{{< video https://www.youtube.com/watch?v=eWRfhZUzrAc >}}
+Learn Python
+:::
+
+::: {.subfigure}
+{{< video https://www.youtube.com/watch?v=_V8eKsto3Ug >}}
+Learn R
+:::
+
+::: {.subfigure}
+{{< video https://www.youtube.com/watch?v=rSjt1E9WHaQ >}}
+Learn Linear Algebra
+:::
+
+::: {.subfigure}
+{{< video https://www.youtube.com/watch?v=HfACrKJ_Y2w&t=39862s >}}
+Learn Calculus
+:::
+
+::: {.subfigure}
+{{< video https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19 >}}
+Learn Probability
+:::
+
+::: {.subfigure}
+{{< video https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566 >}}
+Learn Statistics
+:::
+
+:::
+
+## Online Platforms & Certifications 🌐
+
+> These platforms offer interactive courses and certifications that will enhance your data science skills. Earning certifications from AWS or Microsoft can also help validate your expertise in cloud computing and machine learning for future employers.
+
+
+::: {.subfigures layout-ncol="3" style="text-align:center;"}
+
+::: {.subfigure}
+[![Codecademy](../../data/images/codecademy.png){width=150px height=150px}](https://www.codecademy.com/) 
+[Codecademy](https://www.codecademy.com/)
+:::
+
+::: {.subfigure}
+[![Coursera](../../data/images/coursera.png){width=150px height=125px}](https://www.coursera.org/)  
+[Coursera](https://www.coursera.org/)
+:::
+
+::: {.subfigure}
+[![edX](../../data/images/edx.png){width=150px height=125px}](https://www.edx.org/)  
+[edX](https://www.edx.org/)
+:::
+
+::: {.subfigure}
+[![Udacity](../../data/images/udacity.png){width=150px height=150px}](https://www.udacity.com/)  
+[Udacity](https://www.udacity.com/)
+:::
+
+::: {.subfigure}
+[![AWS Certifications](../../data/images/aws.png){width=150px height=150px}](https://aws.amazon.com/training/?nc2=sb_tc)  
+[AWS Certifications](https://aws.amazon.com/training/?nc2=sb_tc)
+:::
+
+::: {.subfigure}
+[![Microsoft Certifications](../../data/images/microsoft.png){width=150px height=150px}](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)  
+[Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
+:::
+
+:::
+
+## Online Books 📚
+
+> These books provide in-depth theoretical knowledge and practical applications in essential areas of data science. They cover topics such as statistics, machine learning, deep learning, and data mining to help you build a strong foundation in analytical techniques.
+
+- [Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
+- [Calculus](https://patemath.weebly.com/uploads/5/2/5/8/52589185/james-stewart-calculus-early-transcendentals-7th-edition-2012-1-20ng7to-1ck11on.pdf)
+- [Statistics](https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP_i6tAI7e.pdf)
+- [Probability](https://chrispiech.github.io/probabilityForComputerScientists/en/)
+- [Data Mining](https://pzs.dstu.dp.ua/DataMining/bibl/mohammed_j_zaki_wagner_meira_jr_data_mining_and_analysis_fun.pdf)
+- [Machine Learning](https://hagan.okstate.edu/NNDesign.pdf)
+- [Deep Learning](http://alvarestech.com/temp/deep/Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20Aaron%20Courville%20(z-lib.org).pdf)
+
+## Generative AI 🤖
+
+> Understanding generative AI tools like ChatGPT, Claude, and Perplexity can help you explore cutting-edge developments in artificial intelligence. These platforms can assist you in coding by generating code snippets, debugging errors, and explaining complex programming concepts, making your learning process more efficient and interactive.
+
+- [ChatGPT](https://openai.com/index/chatgpt/)
+- [Claude](https://claude.ai/login?returnTo=%2F%3F)
+- [Perplexity](https://www.perplexity.ai/)
+
+## R Libraries 📊
+
+> These R libraries provide essential tools for data visualization, manipulation, and statistical modeling. Whether you're working with data frames, building interactive dashboards, or applying machine learning, these packages will streamline your workflow.
+
+```r
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("tidyverse")
+install.packages("shiny")
+install.packages("caret")
+install.packages("readr")
+```
+
+## Python Libraries 🐍
+
+> Python is the backbone of modern data science, and these libraries provide crucial functionalities for data analysis, machine learning, and deep learning. Mastering these will enable you to efficiently process data, create models, and visualize results.
+
+```bash
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install tensorflow
+pip install torch
+```

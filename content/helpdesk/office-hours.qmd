@@ -1,0 +1,35 @@
+---
+title: "Office Hours"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+Got questions? 🤔 Drop by during our office hours and get real-time help from our data science experts! 
+:::
+
+::: {.subfigures layout-ncol="3"}
+
+::: {.subfigure}
+**Consultation Times**:
+<div>
+  - Tuesdays: 11:00 AM - 4:00 PM  
+  - Thursdays: 11:00 AM - 4:00 PM
+</div>
+
+**Location Address**: <br>
+Samson Hall - Room 304, <br>
+2036 H St. NW, <br>
+Washington, D.C. 20052
+:::
+
+::: {.subfigure}
+<iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.0146862465185!2d-77.0465165!3d38.8993746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7b05df74305%3A0x329c88b41d73a236!2sSamson%20Hall!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus" 
+    width="500" 
+    height="650" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy">
+</iframe>
+:::
+
+:::

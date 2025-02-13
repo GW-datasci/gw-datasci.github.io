@@ -1,0 +1,48 @@
+---
+title: "Services"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+From software installations to troubleshooting crashes and even hardware support, we’ve got your back! Our services ensure you stay focused on data science—not tech headaches. 🚀
+:::
+
+```{=html}
+<div class="grid" style="
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+    gap: 20px; 
+    padding: 20px; 
+    max-width: 1200px; 
+    margin: 0 auto;
+    grid-auto-flow: dense;
+">
+
+  <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+    <img src="../../data/images/plugin.svg" alt="Software Installation Icon" style="width: 40%; height: 200px;">
+    <h3 style="text-align: center; margin: 15px; font-size: 1.2rem; color: #333;">Software Installation Support Services</h3>
+    <p style="margin: 0 15px 15px 15px; font-size: 0.9rem; color: #555;">Download all program-relevant software installation guides, alongside required libraries, for Windows and Mac operating systems.</p>
+  </div>
+
+  <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+    <img src="../../data/images/exclamation-circle.svg" alt="Software Crash Icon" style="width: 40%; height: 200px;">
+    <h3 style="text-align: center; margin: 15px; font-size: 1.2rem; color: #333;">Reliable Software Crashes Resolutions</h3>
+    <p style="margin: 0 15px 15px 15px; font-size: 0.9rem; color: #555;">We offer technical support beyond the classroom to help ensure that you achieve your project goals.</p>
+  </div>
+
+  <div class="grid-item" style="
+    background-color: #fff; 
+    border-radius: 12px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    transition: transform 0.2s, box-shadow 0.2s;
+    grid-column: span 2; 
+    justify-self: center;
+    max-width: 600px;
+  ">
+    <img src="../../data/images/motherboard.svg" alt="Hardware Support Icon" style="width: 40%; height: 200px;">
+    <h3 style="text-align: center; margin: 15px; font-size: 1.2rem; color: #333;">Solutions Beyond Software Support</h3>
+    <p style="margin: 0 15px 15px 15px; font-size: 0.9rem; color: #555;">From connectivity issues to hardware failures, we provide a first port of call service to all graduate and undergraduate students in the Program.</p>
+  </div>
+
+</div>
+```

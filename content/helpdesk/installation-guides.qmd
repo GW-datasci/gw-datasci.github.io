@@ -1,0 +1,60 @@
+---
+title: "Installation Guides"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+Welcome to the ultimate installation hub for your data science journey! Whether you’re wrangling big data, training AI models, or visualizing insights, we’ve got the step-by-step guides to get your tools up and running in no time! 🚀
+:::
+
+```{=html}
+  <div class="grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto;">
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Data Processing</h3>
+      <a href="../../files/apachespark.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Apache Spark</a><br>
+      <a href="../../files/apachehadoop.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Apache Hadoop</a><br>
+      <a href="../../files/mongodb.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">MongoDB</a>
+    </div>
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Data Analysis</h3>
+      <a href="../../files/rprogramming.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">R Programming</a><br>
+      <a href="../../files/rstudio.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">RStudio</a><br>
+      <a href="../../files/python.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Python</a>
+    </div>
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Cloud Computing</h3>
+      <a href="../../files/aws.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">AWS</a><br>
+      <a href="../../files/gcp.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">GCP</a>
+    </div>
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Database Management</h3>
+      <a href="../../files/oraclesql.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Oracle SQL</a><br>
+      <a href="../../files/mysql.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">MySQL</a>
+    </div>
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Data Visualization</h3>
+      <a href="../../files/tableau.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Tableau</a><br>
+      <a href="../../files/microsoftpowerbi.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Microsoft Power BI</a>
+    </div>
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Integrated Development Environments (IDEs)</h3>
+      <a href="../../files/anaconda.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Anaconda</a><br>
+      <a href="../../files/visualstudiocode.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Visual Studio Code</a><br>
+      <a href="../../files/pycharm.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">PyCharm</a>
+    </div>
+
+    <div class="grid-item" style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      <h3 style="margin: 15px; font-size: 1.2rem; color: #333;">Others</h3>
+      <a href="../../files/googlecolab.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Google Colaboratory</a><br>
+      <a href="../../files/githubdesktop.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">GitHub Desktop</a><br>
+      <a href="../../files/jupyternotebook.pdf" download style="margin: 0 15px 10px; font-size: 1rem; color: #007bff;">Jupyter Notebook</a>
+    </div>
+
+  </div>
+
+```
