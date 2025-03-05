@@ -288,7 +288,7 @@
     "href": "content/academic-resources/learning-resources.html#youtube-videos",
     "title": "Learning Resources",
     "section": "YouTube Videos 📺",
-    "text": "YouTube Videos 📺\n\nThese videos provide a solid foundation in key mathematical and programming concepts essential for data science. Whether you’re brushing up on Python, R, linear algebra, or probability, these resources will help reinforce your understanding through visual and practical examples.\n\n\n\n\n\n\n\n\nLearn Python\n\n\n\nLearn R\n\n\n\nLearn Linear Algebra\n\n\n\n\n\nLearn Calculus\n\n\n\nLearn Probability\n\n\n\nLearn Statistics",
+    "text": "YouTube Videos 📺\n\nThese videos provide a solid foundation in key mathematical and programming concepts essential for data science. Whether you’re brushing up on Python, R, linear algebra, or probability, these resources will help reinforce your understanding through visual and practical examples.\n\n\n\n\n\n\n\n\n\nLearn Python\n\n\n\n\n\nLearn R\n\n\n\n\n\nLearn Linear Algebra\n\n\n\n\n\n\n\nLearn Calculus\n\n\n\n\n\nLearn Probability\n\n\n\n\n\nLearn Statistics",
     "crumbs": [
       "Academic Resources",
       "Learning Resources"
@@ -299,7 +299,7 @@
     "href": "content/academic-resources/learning-resources.html#online-books",
     "title": "Learning Resources",
     "section": "Online Books 📚",
-    "text": "Online Books 📚\n\nThese books provide in-depth theoretical knowledge and practical applications in essential areas of data science. They cover topics such as statistics, machine learning, deep learning, and data mining to help you build a strong foundation in analytical techniques.\n\n\nLinear Algebra\nCalculus\nStatistics\nProbability\nData Mining\nMachine Learning\nDeep Learning",
+    "text": "Online Books 📚\n\nThese books provide in-depth theoretical knowledge and practical applications in essential areas of data science. They cover topics such as statistics, machine learning, deep learning, and data mining to help you build a strong foundation in analytical techniques.\n\n\nLearn Linear Algebra\n\nLinear Algebra for Everyone\n\n\n\nLearn Calculus\n\nStewart, J. (2012). Calculus: Early Transcendentals (7th ed.). Brooks Cole.\n\n\n\nLearn Statistics\n\nOpenStax. (n.d.). Introductory Statistics. OpenStax.\n\n\n\nLearn Probability\n\nPiech, C. (n.d.). Probability for Computer Scientists.\n\n\n\nLearn Data Mining\n\nZaki, M. J., & Meira, W. (2014). Data Mining and Analysis: Fundamental Concepts and Algorithms. Cambridge University Press.\n\n\n\nLearn Machine Learning\n\nHagan, M. T., Demuth, H. B., Beale, M. H., & De Jesús, O. (2014). Neural Network Design (2nd ed.).\n\n\n\nLearn Deep Learning\n\nGoodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.",
     "crumbs": [
       "Academic Resources",
       "Learning Resources"
@@ -310,7 +310,7 @@
     "href": "content/academic-resources/learning-resources.html#generative-ai",
     "title": "Learning Resources",
     "section": "Generative AI 🤖",
-    "text": "Generative AI 🤖\n\nUnderstanding generative AI tools like ChatGPT, Claude, and Perplexity can help you explore cutting-edge developments in artificial intelligence. These platforms can assist you in coding by generating code snippets, debugging errors, and explaining complex programming concepts, making your learning process more efficient and interactive.\n\n\nChatGPT\nClaude\nPerplexity",
+    "text": "Generative AI 🤖\n\nUnderstanding generative AI tools like ChatGPT, Claude, and Perplexity can help you explore cutting-edge developments in artificial intelligence. These platforms can assist you in coding by generating code snippets, debugging errors, and explaining complex programming concepts, making your learning process more efficient and interactive.\n\n\n\n\n\n\n\n\nChatGPT\n\n\n\nClaude\n\n\n\nPerplexity",
     "crumbs": [
       "Academic Resources",
       "Learning Resources"
@@ -409,7 +409,7 @@
     "href": "content/academic-resources/data-science-setup.html#integrated-development-environments-ides",
     "title": "Data Science Setup",
     "section": "3 Integrated Development Environments (IDEs) 🖥️",
-    "text": "3 Integrated Development Environments (IDEs) 🖥️\n\nAn IDE is where you’ll write, test, and debug your code. Here at the Data Science program we recommend VS Code or PyCharm.\n\n\n\n\n\n\n\nPick Your Coding Home Wisely!\n\n\n\nYour IDE is like your favorite coffee shop—you’ll spend a lot of time there. So choose one that feels comfortable to you!\n\n\n\n3.1 Download an IDE\n\nVS CodePyCharm\n\n\n\nGo to the VS Code Website\n\n\n\nOpen your browser and visit https://code.visualstudio.com.\n\nClick “Download for Windows” or “Download for macOS” based on your system.\n\n\nInstall VS Code\n\n\n\nWindows: Run the downloaded .exe file and follow the installation instructions.\n\nmacOS: Open the .zip file and move Visual Studio Code to the Applications folder.\n\n\nVerify Installation\n\n\n\nOpen VS Code and check if it runs correctly.\n\n\n\n\nGo to the PyCharm Website\n\n\n\nVisit https://www.jetbrains.com/pycharm/download.\n\nSelect either Community Edition (free) or Professional Edition (paid).\n\nClick Download for Windows or macOS.\n\n\nInstall PyCharm\n\n\n\nWindows: Run the .exe installer and follow the instructions.\n\nmacOS: Open the .dmg file and drag PyCharm to the Applications folder.\n\n\nVerify Installation\n\n\n\nOpen PyCharm and create a new Python project to ensure it’s working.\n\n\n\n\n\n\n3.2 Connect IDE to GitHub Account\n\nVS CodePyCharm\n\n\n\nInstall GitHub Extension in VS Code\n\n\n\nOpen VS Code.\n\nGo to Extensions (Ctrl+Shift+X / Cmd+Shift+X).\n\nSearch for “GitHub Pull Requests and Issues” and install it.\n\n\nSign In to GitHub\n\n\n\nOpen VS Code Command Palette (Ctrl+Shift+P / Cmd+Shift+P).\n\nSearch for “GitHub: Sign in to GitHub” and select it.\n\nFollow the on-screen instructions to authenticate with GitHub.\n\n\n\n\nSign In to GitHub from PyCharm\n\n\n\nOpen PyCharm and go to “File &gt; Settings (Windows)” / “PyCharm &gt; Preferences (Mac)”.\n\nNavigate to “Version Control &gt; GitHub”.\n\nClick Add Account and sign in using your GitHub credentials or a personal access token.\n\n\n\n\n\n\n3.3 Extensions/Plugins\n\nExtensions (or plugins) are add-ons that enhance functionality, such as adding language support, debugging tools, or AI-powered coding assistance. They help customize the IDE to improve productivity, automation, and development workflows.\n\n\nVS Code: ExtensionsPyCharm: Plugins\n\n\n\nPython\nAdds Python support, IntelliSense, debugging, and Jupyter Notebook functionality.\nR\nProvides language support for R, including syntax highlighting and code completion.\nPylance\nOffers advanced linting, type checking, and autocomplete features for Python.\nGit\nProvides Git integration for version control within VS Code.\nGitHub\nAllows you to manage and interact with GitHub repositories directly from VS Code.\nCode Runner\nEnables you to run code snippets for multiple languages, including Python, directly within VS Code.\nJupyter\nLets you run and edit Jupyter Notebooks directly in VS Code.\nEditCSV\nAllows for easy editing of CSV files directly within VS Code.\nHTML Preview\nProvides an HTML preview of your code directly in the editor.\nQuarto\nProvides support for creating and rendering Quarto documents within VS Code.\nRemote - SSH\nAllows you to open remote folders and develop on remote machines over SSH.\nTensorBoard\nEnables the viewing of TensorFlow logs directly within VS Code.\nSVG Preview\nLets you preview SVG files within VS Code.\nCopilot (Paid)\nA paid extension by GitHub that provides AI-powered code suggestions and autocompletions.\nMarkdown All in One\nOffers a comprehensive suite of features for editing and previewing Markdown files.\nDocker\nAdds Docker support to VS Code, allowing you to manage containers and images.\n\n\n\n\nKey Promoter X\nDisplays keyboard shortcuts every time you use the mouse, helping you learn and use shortcuts more efficiently.\nMarkdown Navigator\nProvides enhanced markdown editing and previewing support.\nR Plugin\nAdds support for R scripts and notebooks, allowing you to work with R code directly in PyCharm.\n.env Files Support\nLoads environment variables from .env files, helping you manage sensitive information like API keys and credentials.\nPandas Helper\nProvides quick previews, descriptions, and structure analysis for Pandas DataFrames, making it easier to inspect data.\nDeepBugs\nUses machine learning to detect common Python coding mistakes and bugs in your code.\nDocker\nAdds Docker support to PyCharm, allowing you to manage containers, images, and other Docker resources directly from the IDE.\nJupyter\nProvides full Jupyter Notebook support in PyCharm, including the ability to run and edit notebooks.\nGitHub\nIntegrates GitHub repositories and allows you to work with your projects directly from PyCharm.\nPython Scientific\nAdds support for scientific libraries like NumPy, SciPy, and Matplotlib, helping you visualize and analyze data.\nTabnine\nAn AI-powered code completion tool, improving your coding speed by suggesting relevant completions.\nPython Docstring Generator\nHelps you generate consistent Python docstrings with a single shortcut, saving time on documentation.\nDatabase Navigator\nProvides easy database connection, navigation, and management capabilities within PyCharm.\nFlake8\nAdds linting support for Python, helping you maintain clean and readable code by checking for errors and style issues.\n\n\n\n\n\n\n3.4 Debugger\n\nA debugger is a tool that helps find and fix errors in code by allowing step-by-step execution, breakpoints, and variable inspection. It makes troubleshooting easier by showing how code runs in real time.\n\n\nVS CodePyCharm\n\n\n\nSet Breakpoints\n\n\n\nClick on the gutter (the area next to the line numbers) to set breakpoints. A red dot will appear where the breakpoint is set.\n\n\nOpen the Debug Panel\n\n\n\nPress Ctrl+Shift+D (Windows/Linux) or Cmd+Shift+D (macOS) to open the Debug Panel.\n\n\nConfigure the Debugger\n\n\n\nIf this is your first time using the debugger, you may need to create a launch configuration.\nClick on “create a launch.json file” in the Debug Panel.\nSelect Python from the dropdown and VS Code will generate the default configuration for you.\n\n\nStart Debugging\n\n\n\nClick the green play button or press F5 to start debugging. Your code will run, and the debugger will stop at any breakpoints.\n\n\nUse Debugging Controls\n\n\n\nStep Over (F10): Executes the next line of code without stepping into functions.\nStep Into (F11): Steps into the code inside a function if the line contains a function call.\nStep Out (Shift+F11): Steps out of the current function and back to the caller.\nContinue (F5): Continues running the program until the next breakpoint.\nVariables: View and edit variables in the Debug panel.\nWatch: Add expressions to track their values in real-time.\n\n\n\n\nSet Breakpoints\n\n\n\nClick on the gutter (next to line numbers) to set breakpoints. A red dot will appear at the breakpoint.\n\n\nOpen the Debug Tool Window\n\n\n\nTo open the Debug Tool Window, go to View &gt; Tool Windows &gt; Debug, or use the shortcut Alt+5 (Windows/Linux) or Cmd+5 (macOS).\n\n\nStart Debugging\n\n\n\nClick on the bug icon or press Shift+F9 to start debugging. Your program will run, and it will stop at breakpoints.\n\n\nUse Debugging Controls\n\n\n\nStep Over (F8): Executes the next line of code without stepping into functions.\nStep Into (F7): Steps into the function being called.\nStep Out (Shift+F8): Steps out of the current function.\nResume Program (F9): Continues execution until the next breakpoint.\nVariables: View and edit variables in the Variables tab.\nWatches: Add custom expressions to evaluate while debugging.\n\n\nView and Edit Variables\n\n\n\nIn the Debug tool window, under the Variables tab, you can inspect the values of variables in your current scope.\nYou can also right-click on variables to change their values at runtime, allowing you to test different scenarios.\n\n\n\n\n\n\n\n\n\n\nAnd there you go!  You’re officially all set up and ready to rock the tech world! Your tools are now in place, and all that’s left is for you to conquer the code, debug like a pro, and maybe even break a few things (just so you can fix them, of course). Go ahead, show the world what you’re made of—your computer’s ready, and so are you! Keep calm and code on! 😎🚀",
+    "text": "3 Integrated Development Environments (IDEs) 🖥️\n\nAn IDE is where you’ll write, test, and debug your code. Here at the Data Science program we recommend VS Code or PyCharm.\n\n\n\n\n\n\n\nPick Your Coding Home Wisely!\n\n\n\nYour IDE is like your favorite coffee shop—you’ll spend a lot of time there. So choose one that feels comfortable to you!\n\n\n\n3.1 Download an IDE\n\nVS CodePyCharm\n\n\n\nGo to the VS Code Website\n\n\n\nOpen your browser and visit https://code.visualstudio.com.\n\nClick “Download for Windows” or “Download for macOS” based on your system.\n\n\nInstall VS Code\n\n\n\nWindows: Run the downloaded .exe file and follow the installation instructions.\n\nmacOS: Open the .zip file and move Visual Studio Code to the Applications folder.\n\n\nVerify Installation\n\n\n\nOpen VS Code and check if it runs correctly.\n\n\n\n\nGo to the PyCharm Website\n\n\n\nVisit https://www.jetbrains.com/pycharm/download.\n\nSelect either Community Edition (free) or Professional Edition (paid).\n\nClick Download for Windows or macOS.\n\n\nInstall PyCharm\n\n\n\nWindows: Run the .exe installer and follow the instructions.\n\nmacOS: Open the .dmg file and drag PyCharm to the Applications folder.\n\n\nVerify Installation\n\n\n\nOpen PyCharm and create a new Python project to ensure it’s working.\n\n\n\n\n\n\n3.2 Connect IDE to GitHub Account\n\nVS CodePyCharm\n\n\n\nInstall GitHub Extension in VS Code\n\n\n\nOpen VS Code.\n\nGo to Extensions (Ctrl+Shift+X / Cmd+Shift+X).\n\nSearch for “GitHub Pull Requests and Issues” and install it.\n\n\nSign In to GitHub\n\n\n\nOpen VS Code Command Palette (Ctrl+Shift+P / Cmd+Shift+P).\n\nSearch for “GitHub: Sign in to GitHub” and select it.\n\nFollow the on-screen instructions to authenticate with GitHub.\n\n\n\n\nSign In to GitHub from PyCharm\n\n\n\nOpen PyCharm and go to “File &gt; Settings (Windows)” / “PyCharm &gt; Preferences (Mac)”.\n\nNavigate to “Version Control &gt; GitHub”.\n\nClick Add Account and sign in using your GitHub credentials or a personal access token.\n\n\n\n\n\n\n3.3 Extensions/Plugins\n\nExtensions (or plugins) are add-ons that enhance functionality, such as adding language support, debugging tools, or AI-powered coding assistance. They help customize the IDE to improve productivity, automation, and development workflows.\n\n\nVS Code: ExtensionsPyCharm: Plugins\n\n\n\nPython\nAdds Python support, IntelliSense, debugging, and Jupyter Notebook functionality.\nR\nProvides language support for R, including syntax highlighting and code completion.\nPylance\nOffers advanced linting, type checking, and autocomplete features for Python.\nGit\nProvides Git integration for version control within VS Code.\nGitHub\nAllows you to manage and interact with GitHub repositories directly from VS Code.\nCode Runner\nEnables you to run code snippets for multiple languages, including Python, directly within VS Code.\nJupyter\nLets you run and edit Jupyter Notebooks directly in VS Code.\nEditCSV\nAllows for easy editing of CSV files directly within VS Code.\nHTML Preview\nProvides an HTML preview of your code directly in the editor.\nQuarto\nProvides support for creating and rendering Quarto documents within VS Code.\nRemote - SSH\nAllows you to open remote folders and develop on remote machines over SSH.\nTensorBoard\nEnables the viewing of TensorFlow logs directly within VS Code.\nSVG Preview\nLets you preview SVG files within VS Code.\nCopilot (Paid)\nA paid extension by GitHub that provides AI-powered code suggestions and autocompletions.\nMarkdown All in One\nOffers a comprehensive suite of features for editing and previewing Markdown files.\nDocker\nAdds Docker support to VS Code, allowing you to manage containers and images.\n\n\n\n\nKey Promoter X\nDisplays keyboard shortcuts every time you use the mouse, helping you learn and use shortcuts more efficiently.\nMarkdown Navigator\nProvides enhanced markdown editing and previewing support.\nR Plugin\nAdds support for R scripts and notebooks, allowing you to work with R code directly in PyCharm.\n.env Files Support\nLoads environment variables from .env files, helping you manage sensitive information like API keys and credentials.\nPandas Helper\nProvides quick previews, descriptions, and structure analysis for Pandas DataFrames, making it easier to inspect data.\nDeepBugs\nUses machine learning to detect common Python coding mistakes and bugs in your code.\nDocker\nAdds Docker support to PyCharm, allowing you to manage containers, images, and other Docker resources directly from the IDE.\nJupyter\nProvides full Jupyter Notebook support in PyCharm, including the ability to run and edit notebooks.\nGitHub\nIntegrates GitHub repositories and allows you to work with your projects directly from PyCharm.\nPython Scientific\nAdds support for scientific libraries like NumPy, SciPy, and Matplotlib, helping you visualize and analyze data.\nTabnine\nAn AI-powered code completion tool, improving your coding speed by suggesting relevant completions.\nPython Docstring Generator\nHelps you generate consistent Python docstrings with a single shortcut, saving time on documentation.\nDatabase Navigator\nProvides easy database connection, navigation, and management capabilities within PyCharm.\nFlake8\nAdds linting support for Python, helping you maintain clean and readable code by checking for errors and style issues.\n\n\n\n\n\n\n3.4 Debugger\n\nA debugger is a tool that helps find and fix errors in code by allowing step-by-step execution, breakpoints, and variable inspection. It makes troubleshooting easier by showing how code runs in real time.\n\n\nVS CodePyCharm\n\n\n\nSet Breakpoints\n\n\n\nClick on the gutter (the area next to the line numbers) to set breakpoints. A red dot will appear where the breakpoint is set.\n\n\nOpen the Debug Panel\n\n\n\nPress Ctrl+Shift+D (Windows/Linux) or Cmd+Shift+D (macOS) to open the Debug Panel.\n\n\nConfigure the Debugger\n\n\n\nIf this is your first time using the debugger, you may need to create a launch configuration.\nClick on “create a launch.json file” in the Debug Panel.\nSelect Python from the dropdown and VS Code will generate the default configuration for you.\n\n\nStart Debugging\n\n\n\nClick the green play button or press F5 to start debugging. Your code will run, and the debugger will stop at any breakpoints.\n\n\nUse Debugging Controls\n\n\n\nStep Over (F10): Executes the next line of code without stepping into functions.\nStep Into (F11): Steps into the code inside a function if the line contains a function call.\nStep Out (Shift+F11): Steps out of the current function and back to the caller.\nContinue (F5): Continues running the program until the next breakpoint.\nVariables: View and edit variables in the Debug panel.\nWatch: Add expressions to track their values in real-time.\n\n\n\n\nSet Breakpoints\n\n\n\nClick on the gutter (next to line numbers) to set breakpoints. A red dot will appear at the breakpoint.\n\n\nOpen the Debug Tool Window\n\n\n\nTo open the Debug Tool Window, go to View &gt; Tool Windows &gt; Debug, or use the shortcut Alt+5 (Windows/Linux) or Cmd+5 (macOS).\n\n\nStart Debugging\n\n\n\nClick on the bug icon or press Shift+F9 to start debugging. Your program will run, and it will stop at breakpoints.\n\n\nUse Debugging Controls\n\n\n\nStep Over (F8): Executes the next line of code without stepping into functions.\nStep Into (F7): Steps into the function being called.\nStep Out (Shift+F8): Steps out of the current function.\nResume Program (F9): Continues execution until the next breakpoint.\nVariables: View and edit variables in the Variables tab.\nWatches: Add custom expressions to evaluate while debugging.\n\n\nView and Edit Variables\n\n\n\nIn the Debug tool window, under the Variables tab, you can inspect the values of variables in your current scope.\nYou can also right-click on variables to change their values at runtime, allowing you to test different scenarios.",
     "crumbs": [
       "Academic Resources",
       "Data Science Setup"
@@ -530,7 +530,7 @@
     "href": "content/helpdesk/office-hours.html",
     "title": "Office Hours",
     "section": "",
-    "text": "Got questions? 🤔 Drop by during our office hours and get real-time help from our data science experts!\n\n\n\n\n\n\n\n\n\nConsultation Times:\n\n\nTuesdays: 11:00 AM - 4:00 PM\n\nThursdays: 11:00 AM - 4:00 PM\n\n\nLocation Address:  Samson Hall - Room 304,  2036 H St. NW,  Washington, D.C. 20052",
+    "text": "Got questions? 🤔 Drop by during our office hours and get real-time help from our data science experts!\n\n\n\n\n\n\n\n\n\nConsultation Times:\n\nMondays: 11:00 AM - 4:00 PM\nTuesdays: 11:00 AM - 4:00 PM\n\nWednesday: 11:00 AM - 4:00 PM\nThursdays: 11:00 AM - 4:00 PM\n\nLocation Address:  Samson Hall - Room 304,  2036 H St. NW,  Washington, D.C. 20052",
     "crumbs": [
       "Help Desk",
       "Office Hours"
@@ -542,5 +542,306 @@
     "title": "",
     "section": "",
     "text": "If you have any questions or need support, don’t hesitate to get in touch with us:\n\nAddress:  Corcoran Hall  725 21st St. NW, Room 426  Washington, D.C. 20052\nEmail: datasci@gwu.edu\nPhone: 202-994-6302"
+  },
+  {
+    "objectID": "math/index.html",
+    "href": "math/index.html",
+    "title": "Math for Data Science",
+    "section": "",
+    "text": "👋 Welcome to the official landing page for Math for Data Science! This site is designed to help you learn essential math concepts for your data science journey at The George Washington University.\n\n\n\n\n\n\n\n  \n    \n    Probability\n  \n\n  \n    \n    Linear Algebra\n    Coming Soon... ⏳ \n  \n\n  \n    \n    Calculus\n    Coming Soon... ⏳ \n  \n\n  \n    \n    Statistics\n    Coming Soon... ⏳"
+  },
+  {
+    "objectID": "math/content/probability/04-independence.html",
+    "href": "math/content/probability/04-independence.html",
+    "title": "Independence",
+    "section": "",
+    "text": "A property where two events do not influence each other, meaning the occurrence of one tells us nothing about the other. 🔗"
+  },
+  {
+    "objectID": "math/content/probability/04-independence.html#independent-events",
+    "href": "math/content/probability/04-independence.html#independent-events",
+    "title": "Independence",
+    "section": "Independent Events",
+    "text": "Independent Events\nSuppose \\(A\\) and \\(B\\) are two events.  Two events are independent if the occurrence of event \\(B\\) provides no information about the occurrence of event \\(A\\):\n\\[\nP(A|B) = P(A)\n\\]\nAnother definition of independence:\n\\[\nP(A \\cap B) = P(A) P(B)\n\\]\nFor multiple events:\n\\[\nP(A_{1} \\cap A_{2} \\cap ... A_{n}) = P(A_{1}) P(A_{2}) ... P(A_{n})\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/04-independence.html#conditioning-and-independence",
+    "href": "math/content/probability/04-independence.html#conditioning-and-independence",
+    "title": "Independence",
+    "section": "Conditioning and Independence",
+    "text": "Conditioning and Independence\nSuppose \\(A\\), \\(B\\), and \\(C\\) are events.  If \\(A\\) and \\(B\\) are independent, conditioning on \\(C\\) may remove that independence.  When we condition on \\(C\\), events \\(A\\) and \\(B\\) may no longer be independent.\n\n\n\n\nExercise\nThe king comes from a family of two children. What is the probability that his sibling is female \\(F\\) and not male \\(M\\)?\nLet all outcomes be equally likely.\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\\[\nSample \\ Space = \\{(FF), (FM), (MF), (MM)\\} = \\{(\\not F \\not F), (FM), (MF), (MM)\\}\n\\]\n\\[\nP(F|M) = \\frac{P(F \\cap M)}{M} = \\frac{2}{3} \\approx 0.6\\bar{6}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/01-set-theory.html",
+    "href": "math/content/probability/01-set-theory.html",
+    "title": "Set Theory",
+    "section": "",
+    "text": "The study of collections of objects, where elements either belong to a set or they don’t—simple, yet powerful! 🌍"
+  },
+  {
+    "objectID": "math/content/probability/01-set-theory.html#sets",
+    "href": "math/content/probability/01-set-theory.html#sets",
+    "title": "Set Theory",
+    "section": "Sets",
+    "text": "Sets\nA set is a collection of things.  The things are called elements of a set.\n\\[\nColors = \\{Red, Blue, Green\\}\n\\]\n\\[\nNumbers = \\{1,2,3\\}\n\\]\nSets can be finite or infinite.\n\\[\nSome\\ Even\\ Integers = \\{2,4,6\\}\n\\]\n\\[\nAll\\ Even\\ Integers = \\{..., -4, -2, 0, 2, 4, ...\\}\n\\]\nThe number of elements in a set is called the cardinality.\n\\[\n|Colors| = 3\n\\]\nTwo sets are equal if they share exactly the same elements.\n\\[\nA = \\{2,4,6\\}, B = \\{4,2,6\\}, C = \\{4,2,7\\}\n\\]\n\\[\nA = B\n\\] \\[\nA \\neq C\n\\]\nTo express that \\(2\\) is an element of \\(A\\), we denote:\n\\[\n2 \\in A\n\\] \\[\n\\text{2 exists in A}\n\\]\n\\[\n5 \\notin A\n\\] \\[\n\\text{5 does not exist in A}\n\\]\nSome sets are so significant that we reserve special symbols for them:\n\\[\n\\emptyset = \\{\\} \\quad \\textbf{(empty set)}\n\\]\n\\[\n\\mathbb{N} = \\{1, 2, 3, ... \\} \\quad \\textbf{(natural numbers)}\n\\]\n\\[\n\\mathbb{Z} = \\{..., -2, -1, 0, 1, 2, ... \\} \\quad \\textbf{(integers)}\n\\]\n\\[\n\\mathbb{R} = \\{..., -0.22,...,0,...,1,..., \\pi, ... \\} \\quad \\textbf{(real numbers)}\n\\]\nWe visualize \\(\\mathbb{R}\\) as an infinitely long number line."
+  },
+  {
+    "objectID": "math/content/probability/01-set-theory.html#set-builder-notation",
+    "href": "math/content/probability/01-set-theory.html#set-builder-notation",
+    "title": "Set Theory",
+    "section": "Set-Builder Notation",
+    "text": "Set-Builder Notation\nA special notation called set-builder notation is used to describe sets that are too big or complex to list between braces.\n\\[\nAll\\ Even\\ Integers_{1} = \\{..., -4, -2, 0, 2, 4, ...\\}\n\\]\n\\[\nAll\\ Even\\ Integers_{2} = \\{2x: x \\in \\mathbb{Z} \\}\n\\]\n\\[\n\\text{The set of all numbers of the form } 2x \\text{ such that } x \\in \\mathbb{Z}\n\\]\n\\[\nAll\\ Even\\ Integers_{1} = All\\ Even\\ Integers_{2}\n\\]\n\nExercise\nWrite the following sets in set-builder notation:\n\n\\(\\{ 2, 4, 8, 16, 32, 64, ... \\}\\)\n\\(\\{ 0, 1, 4, 9, 16, 25, 36, ... \\}\\)\n\\(\\{ 3, 4, 5, 6, 7, 8 \\}\\)\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\\(\\{ 2^x: x \\in \\mathbb{N} \\}\\)\n\\(\\{ x^2: x \\in \\mathbb{Z} \\}\\)\n\\(\\{ x \\in \\mathbb{Z}: 3 \\le x \\le 8 \\}\\)"
+  },
+  {
+    "objectID": "math/content/probability/01-set-theory.html#subsets",
+    "href": "math/content/probability/01-set-theory.html#subsets",
+    "title": "Set Theory",
+    "section": "Subsets",
+    "text": "Subsets\nSuppose \\(A\\) and \\(B\\) are sets.  If every element of \\(A\\) is also an element of \\(B\\), then we say \\(A\\) is a subset of \\(B\\), denoted \\(A \\subseteq B\\).  We write \\(A \\not\\subseteq B\\) if \\(A\\) is not a subset of \\(B\\), that is, if it is not true that every element of \\(A\\) is also an element of \\(B\\). Thus \\(A \\not\\subseteq B\\) means that there is at least one element of \\(A\\) that is not an element of \\(B\\).\n\\[\n\\mathbb{N} \\subseteq \\mathbb{Z} \\subseteq \\mathbb{R}\n\\]\n\\[\nA = \\{1,2\\}, B = \\{2,3,4\\}\n\\] \\[\nA \\not\\subseteq B\n\\]\n\nExercise\nList all the subsets of the following sets:\n\n\\(\\{1,2,3\\}\\)\n\\(\\{1,\\{2,3\\}\\}\\)\n\\(\\{\\mathbb{N}, \\mathbb{Z}, \\mathbb{R}\\}\\)\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\\(\\{\\}, \\{1\\}, \\{2\\}, \\{3\\}, \\{1,2\\}, \\{1,3\\}, \\{2,3\\}, \\{1,2,3\\}\\)\n\\(\\{\\}, \\{1\\}, \\{\\{2,3\\}\\}, \\{1,\\{2,3\\}\\}\\)\n\\(\\{\\}, \\{\\mathbb{N}\\}, \\{\\mathbb{Z}\\}, \\{\\mathbb{R}\\}, \\{\\mathbb{N},\\mathbb{Z}\\}, \\{\\mathbb{N},\\mathbb{R}\\}, \\{\\mathbb{Z},\\mathbb{R}\\}, \\{\\mathbb{N},\\mathbb{Z},\\mathbb{R}\\}\\)"
+  },
+  {
+    "objectID": "math/content/probability/01-set-theory.html#union-intersection-and-difference",
+    "href": "math/content/probability/01-set-theory.html#union-intersection-and-difference",
+    "title": "Set Theory",
+    "section": "Union, Intersection, and Difference",
+    "text": "Union, Intersection, and Difference\nSuppose \\(A\\) and \\(B\\) are sets.\nA union of \\(A\\) and \\(B\\) is the set: \\[\nA \\cup B = \\{x: x \\in A \\text{ or } x \\in B \\}\n\\]\nA intersection of \\(A\\) and \\(B\\) is the set: \\[\nA \\cap B = \\{x: x \\in A \\text{ and } x \\in B \\}\n\\]\nA difference of \\(A\\) and \\(B\\) is the set: \\[\nA - B = \\{x: x \\in A \\text{ and } x \\notin B \\}\n\\]\n\n\n\n\nExercise\nShade in the region matching the expression:\n\n\\((A \\cap B) \\cap C\\)\n\\((A \\cup B) \\cap C\\)\n\\((A \\cup B) - C\\)\n\n\n\n\n\n\n\n\n\n\nSolution"
+  },
+  {
+    "objectID": "math/content/probability/01-set-theory.html#complements",
+    "href": "math/content/probability/01-set-theory.html#complements",
+    "title": "Set Theory",
+    "section": "Complements",
+    "text": "Complements\nSuppose \\(A\\) is a set.  A universal set is a larger set that encompasses other sets.  The complement of \\(A\\), denoted \\(\\bar{A}\\), is the set \\(\\bar{A} = U - A\\).\n\\[\nP = \\{2, 3, 5, 7, ...\\} \\quad \\textbf{(prime numbers)}\n\\]\n\\[\n\\bar{P} = \\mathbb{N} - P = \\{1, 4, 6, ...\\}\n\\]\n\nExercise\nFind \\(\\bar{A}\\):\n\\[\nA = \\{1,2,3\\}, U = \\{0,1,2,3,4,5\\}\n\\]\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\\[\n\\bar{A} = \\{0, 4, 5\\}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/03-conditioning.html",
+    "href": "math/content/probability/03-conditioning.html",
+    "title": "Conditioning",
+    "section": "",
+    "text": "A way to update probabilities when given new information, refining our understanding of how likely an event is. 🤔"
+  },
+  {
+    "objectID": "math/content/probability/03-conditioning.html#conditional-probability",
+    "href": "math/content/probability/03-conditioning.html#conditional-probability",
+    "title": "Conditioning",
+    "section": "Conditional Probability",
+    "text": "Conditional Probability\nSuppose \\(A\\) and \\(B\\) are events.  Conditional probability is the likelihood of an event occurring given that we know another event has occurred.\n\n\n\n\\[\nP(A|B) = \\frac{P(A \\cap B)}{P(B)}\n\\]\nIntuition: conditioned event becomes the new sample space.  If \\(P(B) \\neq 0\\), then the probability of the intersection normalized by the conditioned space.  Else \\(P(B) = 0\\), then \\(P(A|B)\\) is undefined."
+  },
+  {
+    "objectID": "math/content/probability/03-conditioning.html#product-rule",
+    "href": "math/content/probability/03-conditioning.html#product-rule",
+    "title": "Conditioning",
+    "section": "Product Rule",
+    "text": "Product Rule\nSuppose \\(A\\) and \\(B\\) are events.  The product rule states that the probability of two events \\(A\\) and \\(B\\) occurring together \\(A \\cap B\\) is given by the probability of one event occurring given the other \\(P(A|B)\\) or \\(P(B|A)\\) multiplied by the probability of the other event.\n\\[\nP(A \\cap B) = P(A|B) P(B) = P(B|A) P(A)\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/03-conditioning.html#total-probability-theorem",
+    "href": "math/content/probability/03-conditioning.html#total-probability-theorem",
+    "title": "Conditioning",
+    "section": "Total Probability Theorem",
+    "text": "Total Probability Theorem\nSuppose \\(A_{1,...,n}\\) and \\(B\\) are sets.  The total probability theorem allows us to compute the likelihood of an event by summing over conditional probabilities of different partitions of the sample space.\n\\[\nP(B) = P(B|A_1) P(A_1) + P(B|A_2) P(A_2) + P(B|A_3) P(A_3)\n\\]\n\n\n\nIn general terms:\n\\[\nP(B) = P(B|A_1) P(A_1) + ... + P(B|A_n) P(A_n)\n\\]\n\nExercise\nExperiment: Classifying emails as spam \\(S\\) or not spam \\(NS\\) based on the word \\(W\\) or not the word \\(NW\\) “free”.\n\\[\nP(S) = 0.4\n\\]\n\\[\nP(NS) = 0.6\n\\]\n\\[\nP(W|S) = 0.7\n\\]\n\\[\nP(W|NS) = 0.1\n\\]\nFind the probability of \\(P(S|W)\\):\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\\[\nP(S|W) = \\frac{P(S \\cap W)}{P(W)} = \\underbrace{\\frac{P(W|S)P(S)}{P(W|S)P(S) + P(W|NS)P(NS)}}_{Bayes' \\ Theorem} = \\frac{0.7 * 0.4}{0.7 * 0.4 + 0.1 * 0.6} = 0.82\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html",
+    "href": "math/content/probability/02-axiomatic.html",
+    "title": "Axiomatic Probability",
+    "section": "",
+    "text": "A formal framework that defines probability using three fundamental rules, ensuring consistency in measuring uncertainty. 🎲"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html#methodology",
+    "href": "math/content/probability/02-axiomatic.html#methodology",
+    "title": "Axiomatic Probability",
+    "section": "Methodology",
+    "text": "Methodology\nSteps to perform a probabilistic model:\n\nSpecify sample space.\nDefine probability law (must align with probability axioms).\nIdentify event of interest.\nCalculate…"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html#sample-space",
+    "href": "math/content/probability/02-axiomatic.html#sample-space",
+    "title": "Axiomatic Probability",
+    "section": "Sample Space",
+    "text": "Sample Space\nA sample space is a set of all possible outcomes from an experiment. \n\\[\nSample \\ Space = \\{Heads, Tails\\}\n\\]\nAn experiment is any procedure that can be repeated and has a well-defined set of outcomes. \n\\[\nFlipping \\ a \\ fair \\ coin\n\\]\nAn outcome is the end result of an experiment, or an element in the sample space.\n\\[\nHeads  \n\\]"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html#illustration-discrete-sample-space",
+    "href": "math/content/probability/02-axiomatic.html#illustration-discrete-sample-space",
+    "title": "Axiomatic Probability",
+    "section": "Illustration: Discrete Sample Space",
+    "text": "Illustration: Discrete Sample Space\nExperiment: Rolling two fair die at the same time.\n\\[\nSample \\ Space = \\{ (x, y) : x,y \\in \\mathbb{N}, 1 \\leq x, y \\leq 6  \\}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html#illustration-continuous-sample-space",
+    "href": "math/content/probability/02-axiomatic.html#illustration-continuous-sample-space",
+    "title": "Axiomatic Probability",
+    "section": "Illustration: Continuous Sample Space",
+    "text": "Illustration: Continuous Sample Space\nExperiment: Measure two continuous variables in the range \\([0,1]\\)\n\\[ Sample\\ Space = \\{ (x, y) : x,y \\in \\mathbb{R}, 0 \\leq x, y \\leq 1  \\} \\]"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html#events-and-experiment",
+    "href": "math/content/probability/02-axiomatic.html#events-and-experiment",
+    "title": "Axiomatic Probability",
+    "section": "Events and Experiment",
+    "text": "Events and Experiment\nAn event is a subset of the sample space.  Events are important because they ultimately get assigned probabilities.\nExperiment: Rolling a die once.\n\\[\nSample \\ Space = \\{1,2,3,4,5,6\\}\n\\]\nWhat is the event of rolling a \\(1\\)?\n\\[\n\\{1\\} \\subseteq \\{1,2,3,4,5,6\\}\n\\]\nWhat is the event of rolling an odd number?\n\\[\n\\{1, 3, 5\\} \\subseteq \\{1,2,3,4,5,6\\}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/02-axiomatic.html#probability-axioms-and-probability-law",
+    "href": "math/content/probability/02-axiomatic.html#probability-axioms-and-probability-law",
+    "title": "Axiomatic Probability",
+    "section": "Probability Axioms and Probability Law",
+    "text": "Probability Axioms and Probability Law\nKolmogorov probability axioms are the foundations of axiomatic probability theory:\n\nNonnegativity: \\(P(Event) \\geq 0\\)\nNormalization: \\(P(Sample\\ Space) = 1\\)\nAdditivity: If \\(A \\cap B = \\emptyset, P(A \\cup B) = P(A) + P(B)\\)\n\nProbability laws are additional axioms mathematically derived from Kolmogorov probability axioms.\n\nExercise\nExperiment: Rolling two fair die at the same time.\nLet all outcomes be equally likely.\n\\[\nP(A) = \\frac{|A|}{|Sample\\ Space|}\n\\]\n\n\n\nFind the following probabilities:\n\n\\(P(die_1 = 1)\\)\n\\(P(max(die_1, die_2) = 2)\\)\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\\(P(die_1 = 1) = \\frac{6}{36} \\approx 0.1\\bar{6}\\)\n\\(P(max(die_1, die_2) = 2) = \\frac{2}{36} \\approx 0.0\\bar{5}\\)\n\n\n\n\n\n\nExercise\nExperiment: Measure two continuous variables in the range \\([0,1]\\)\n\\[\nSample\\ Space = \\{ (x, y) : x,y \\in \\mathbb{R}, 0 \\leq x, y \\leq 1  \\}\n\\]\n\n\n\nFind the following probabilities:\n\n\\(P(x = 0.5 , y = 0.5)\\)\n\\(P(x+y \\geq 1)\\)\n\n\n\n\n\n\n\nSolution\n\n\n\n\n\n\n\\(P(x = 0.5 , y = 0.5) = 0\\)\n\\(P(x+y \\geq 1) = 0.5\\)"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html",
+    "href": "math/content/probability/06-continuous-rv.html",
+    "title": "Continuous Random Variables",
+    "section": "",
+    "text": "A variable that can take any value within a range, requiring calculus to describe its probabilities. 📈"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#continuous-random-variable",
+    "href": "math/content/probability/06-continuous-rv.html#continuous-random-variable",
+    "title": "Continuous Random Variables",
+    "section": "Continuous Random Variable",
+    "text": "Continuous Random Variable\nA continuous random variable is a mapping \\(X\\) of all the events of a sample space to numerical values \\(x \\in \\mathbb{R}\\). \\[\nX: Event \\in Sample \\ Space \\to x \\in \\mathbb{R}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#probability-density-function-pdf",
+    "href": "math/content/probability/06-continuous-rv.html#probability-density-function-pdf",
+    "title": "Continuous Random Variables",
+    "section": "Probability Density Function (PDF)",
+    "text": "Probability Density Function (PDF)\nA probability density function (PDF) is a mapping of values \\(x\\) of intervals of continuous random variables \\(X\\) to probabilities \\([0,1]\\).\n\\[\nP(a \\leq X \\leq b) = \\int_{a}^{b} f_{X}(x) \\ dx\n\\]\nPDF has properties: \\[\nf_{X}(x) \\geq 0, \\ \\int_{-\\infty}^{\\infty} f_{X}(x) \\ dx = 1\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#cumulative-distribution-function-cdf",
+    "href": "math/content/probability/06-continuous-rv.html#cumulative-distribution-function-cdf",
+    "title": "Continuous Random Variables",
+    "section": "Cumulative Distribution Function (CDF)",
+    "text": "Cumulative Distribution Function (CDF)\nThe cumulative distribution function (CDF) for continuous random variables is defined as:\n\\[ F_{X}(x) = P(X \\leq x) = \\int_{-\\infty}^{x} f_{X}(u) \\ du \\]\nRelation to PDF:\n\\[\nf_{X}(x) = \\frac{dF_{X}(x)}{dx}\n\\] \\[\nF_{X}(x) = \\int_{-\\infty}^{x} f_{X}(u) \\ du\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#illustration-pdf-and-cdf",
+    "href": "math/content/probability/06-continuous-rv.html#illustration-pdf-and-cdf",
+    "title": "Continuous Random Variables",
+    "section": "Illustration: PDF and CDF",
+    "text": "Illustration: PDF and CDF"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#expectation-and-variance-of-pdfs",
+    "href": "math/content/probability/06-continuous-rv.html#expectation-and-variance-of-pdfs",
+    "title": "Continuous Random Variables",
+    "section": "Expectation and Variance of PDFs",
+    "text": "Expectation and Variance of PDFs\nContinuous expectation, or mean, is the average numerical value that the continuous random variable takes over the PDF. \\[\nE[X] = \\int_{-\\infty}^{\\infty} x \\ f_{X}(x) dx\n\\]\nContinuous variance is the expected squared difference from the mean of a PDF. \\[\n\\text{Var}[X] = E[(X - E[X])^{2}] = \\int_{-\\infty}^{\\infty} (x - E[X])^2 \\ f_{X}(x) dx\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#joint-and-marginal-pdfs",
+    "href": "math/content/probability/06-continuous-rv.html#joint-and-marginal-pdfs",
+    "title": "Continuous Random Variables",
+    "section": "Joint and Marginal PDFs",
+    "text": "Joint and Marginal PDFs\nThe joint PDF calculates the intersection of two continuous random variables: \\[\nP((X,Y) \\in A) = \\int \\int_{A} f_{X,Y}(x_{1}, x_{2}) dx_{1} \\ dx_{2}\n\\]\nFrom the previous definition we can also compute the marginal PDF for a particular random variable:\n\\[\nf_{X}(x_{1}) = \\int_{-\\infty}^{\\infty} f_{X,Y}(x_{1}, x_{2}) dx_{2}\n\\]\n\\[\nf_{Y}(x_{2}) = \\int_{-\\infty}^{\\infty} f_{X,Y}(x_{1},x_{2}) dx_{1}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#conditional-expectation-of-pdfs",
+    "href": "math/content/probability/06-continuous-rv.html#conditional-expectation-of-pdfs",
+    "title": "Continuous Random Variables",
+    "section": "Conditional Expectation of PDFs",
+    "text": "Conditional Expectation of PDFs\nThe conditional PDF gives the probability distribution of a continuous random variable given that another variable has a specific value. \\[\nf_{X|Y}(x_{1}| x_{2}) = \\frac{f_{X,Y}(x_{1}, x_{2})}{f_{Y}(x_{2})}\n\\]\nThe conditional expectation is the expected value of a continuous random variable given that another variable is fixed at a specific value. \\[\n\\mathbb{E}[X| Y = x_{2}] = \\int_{x_{1} \\in X} x_{1} \\frac{f_{X,Y}(x_{1}, x_{2})}{f_{Y}(x_{2})} dx_{1}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/06-continuous-rv.html#independence",
+    "href": "math/content/probability/06-continuous-rv.html#independence",
+    "title": "Continuous Random Variables",
+    "section": "Independence",
+    "text": "Independence\nTwo continuous random variables are independent if: \\[\nf_{X,Y}(x_{1}, x_{2}) = f_{X}(x_{1}) f_{Y}(x_{2})\n\\]\nThis can be extended to multiple random variables: \\[\nf_{X_{1},...,X{n}}(x_{1}, ..., x_{n}) = f_{X_{1}}(x_{1}) ... \\ f_{X_{n}}(x_{n})\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html",
+    "href": "math/content/probability/05-discrete-rv.html",
+    "title": "Discrete Random Variables",
+    "section": "",
+    "text": "A type of variable that takes distinct, countable values, often used to model finite outcomes. 📊"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#discrete-random-variable",
+    "href": "math/content/probability/05-discrete-rv.html#discrete-random-variable",
+    "title": "Discrete Random Variables",
+    "section": "Discrete Random Variable",
+    "text": "Discrete Random Variable\nA discrete random variable is a mapping \\(X\\) of all of the outcomes of a sample space to numerical values \\(x \\in \\mathbb{Z}\\).\n\\[\nX: Outcome \\in Sample \\ Space \\to x \\in \\mathbb{Z}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#probability-mass-function-pmf",
+    "href": "math/content/probability/05-discrete-rv.html#probability-mass-function-pmf",
+    "title": "Discrete Random Variables",
+    "section": "Probability Mass Function (PMF)",
+    "text": "Probability Mass Function (PMF)\nA probability mass function (PMF) is a mapping of values \\(x\\) of discrete random variables \\(X\\) to probabilities \\([0,1]\\).\n\\[\np_{X}(x) = P(X = x)\n\\]\nPMF has properties: \\[\np_{X}(x) \\geq 0, \\quad \\sum_{x} p_{X}(x) = 1\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#cumulative-distribution-function-cdf",
+    "href": "math/content/probability/05-discrete-rv.html#cumulative-distribution-function-cdf",
+    "title": "Discrete Random Variables",
+    "section": "Cumulative Distribution Function (CDF)",
+    "text": "Cumulative Distribution Function (CDF)\nThe cumulative distribution function (CDF) for discrete random variables is defined as:\n\\[\nF_{X}(x) = P(X \\leq x) = \\sum_{k \\leq x} p_{X}(k)\n\\]\nRelation to PMF: \\[\np_{X}(x) = \\frac{dF_{X}(x)}{dx}\n\\]\n\\[\nF_{X}(x) = \\sum_{k \\leq x}p_{X}(k)\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#illustration-pmf-and-cdf",
+    "href": "math/content/probability/05-discrete-rv.html#illustration-pmf-and-cdf",
+    "title": "Discrete Random Variables",
+    "section": "Illustration: PMF and CDF",
+    "text": "Illustration: PMF and CDF"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#expectation-and-variance-of-pmfs",
+    "href": "math/content/probability/05-discrete-rv.html#expectation-and-variance-of-pmfs",
+    "title": "Discrete Random Variables",
+    "section": "Expectation and Variance of PMFs",
+    "text": "Expectation and Variance of PMFs\nDiscrete expectation, or mean, is the average numerical value that the discrete random variable takes over the PMF. \\[\nE[X] = \\sum_{x} x \\ p_{X}(x)\n\\]\nDiscrete variance is the expected squared difference from the mean of a PMF. \\[\nVar[X] = E[(X - E[X])^{2}] = \\sum_{x}(x - E[X])^2 p_{X}(x)\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#joint-and-marginal-pmfs",
+    "href": "math/content/probability/05-discrete-rv.html#joint-and-marginal-pmfs",
+    "title": "Discrete Random Variables",
+    "section": "Joint and Marginal PMFs",
+    "text": "Joint and Marginal PMFs\nThe joint PMF calculates the intersection of two discrete random variables: \\[\np_{X,Y}(x_{1},x_{2}) = P(X = x_{1}, Y = x_{2})\n\\]\nFrom the previous definition we can also compute the marginal PMF for a particular random variable: \\[\np_{X}(x_{1}) = \\sum_{x_{2}} p_{X,Y}(X = x_{1},Y = x_{2})\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#conditional-expectation-of-pmfs",
+    "href": "math/content/probability/05-discrete-rv.html#conditional-expectation-of-pmfs",
+    "title": "Discrete Random Variables",
+    "section": "Conditional Expectation of PMFs",
+    "text": "Conditional Expectation of PMFs\nThe conditional PMF gives the probability distribution of a discrete random variable given that another variable has a specific value. \\[\np_{X|Y}(x_{1}| x_{2}) = \\frac{p_{X,Y}(x_{1}, x_{2})}{p_{Y}(x_{2})}\n\\]\nThe conditional expectation is the expected value of a discrete random variable given that another variable is fixed at a specific value. \\[\nE[X| Y = x_{2}] = \\sum_{x_{1}} x_{1} \\frac{p_{X,Y}(x_{1}, x_{2})}{p_{Y}(x_{2})}\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/05-discrete-rv.html#independence",
+    "href": "math/content/probability/05-discrete-rv.html#independence",
+    "title": "Discrete Random Variables",
+    "section": "Independence",
+    "text": "Independence\nTwo discrete random variables are independent if:\n\\[\np_{X,Y}(x_{1}, x_{2}) = p_{X}(x_{1}) p_{Y}(x_{2})\n\\]\nFor multiple discrete random variables: \\[\np_{X_{1},...,X_{n}}(x_{1}, ..., x_{n}) = p_{X_{1}}(x_{1}) ... \\ p_{X_{n}}(x_{n})\n\\]"
+  },
+  {
+    "objectID": "math/content/probability/07-prob-dist.html",
+    "href": "math/content/probability/07-prob-dist.html",
+    "title": "Probability Distributions",
+    "section": "",
+    "text": "A function that assigns probabilities to outcomes, defining the overall behavior of a random process. 🤓"
+  },
+  {
+    "objectID": "math/content/probability/07-prob-dist.html#bernoulli-distribution",
+    "href": "math/content/probability/07-prob-dist.html#bernoulli-distribution",
+    "title": "Probability Distributions",
+    "section": "Bernoulli Distribution",
+    "text": "Bernoulli Distribution\n\\[\np_{X}(x) =\n\\begin{cases}\n    p & \\text{if } x = 1, \\\\\n    q = 1-p & \\text{if } x = 0.\n\\end{cases}\n\\]\n\nThe discrete random variable can take value \\(1\\) with probability \\(p\\) or value \\(0\\) with probability \\(q = 1 - p\\)\nNot to be confused with the binomial distribution, since only one trial is being conducted.\n\\(\\mathbb{E}[X] = p\\)\n\\(Var[X] = pq\\) \n\n\n\nviewof p = Inputs.range([0, 1], {\n  step: 0.01,\n  value: 0.5,\n  label: tex`p`,\n  width: 200\n})\n\ndata = {\n  return [\n    {outcome: \"0\", probability: 1 - p},\n    {outcome: \"1\", probability: p}\n  ];\n}\n\nPlot.plot({\n  style: \"overflow: visible; display: block; margin: 0 auto;\",\n  width: 600,\n  height: 400,\n  y: {\n    grid: true,\n    label: \"Probability\",\n    domain: [0, 1]\n  },\n  x: {\n    label: \"Outcome\",\n    padding: 0.2\n  },\n  marks: [\n    Plot.barY(data, {\n      x: \"outcome\",\n      y: \"probability\",\n      fill: \"steelblue\"\n    }),\n    Plot.ruleY([0])\n  ]\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhtml`&lt;div style=\"text-align: center; margin-top: 1em;\"&gt;\n  &lt;p&gt;${tex`\\mathbb{E}[X] =`} ${p.toFixed(3)}&lt;/p&gt;\n  &lt;p&gt;${tex`\\text{Var}(X) =`} ${(p * (1-p)).toFixed(3)}&lt;/p&gt;\n&lt;/div&gt;`\n\n\n\n\n\n\n\n\n\n\nPython Code: Bernoulli Distribution\nTo create Bernoulli distributed data using numpy:\nimport numpy as np\n\ninterval = [0,1]\nsize = (1000,1)\np = [1-0.5, 0.5]\n\ndata = np.random.choice(interval, size, p = p)"
+  },
+  {
+    "objectID": "math/content/probability/07-prob-dist.html#gaussian-distribution",
+    "href": "math/content/probability/07-prob-dist.html#gaussian-distribution",
+    "title": "Probability Distributions",
+    "section": "Gaussian Distribution",
+    "text": "Gaussian Distribution\n\\[\nf_{X}(x)=\\frac{1}{\\sqrt{2\\pi\\sigma^{2} }}e^{-\\frac{(x-\\mu)^{2}}{2\\sigma^{2}}}\n\\]\n\nUsed frequently to represent real-valued random variables whose distributions are not known.\nIts importance is derived from the central limit theorem that states, under some conditions, the average of many samples of a random variable is itself a random variable that converges to a Gaussian distribution as it increases.\n\\(E[X] = \\mu\\)\n\\(Var[X] = \\sigma^{2}\\)\n\n\n\nviewof mu = Inputs.range([-1, 1], {\n  step: 0.1,\n  value: 0,\n  label: tex`\\mu`,\n  width: 200\n})\n\nviewof sigma = Inputs.range([0.1, 2], {\n  step: 0.1,\n  value: 1,\n  label: tex`\\sigma`,\n  width: 200\n})\n\n// Generate points for the normal distribution curve\npointsGaussian = {\n  const x = d3.range(-5, 5, 0.1);\n  return x.map(x =&gt; ({\n    x,\n    y: (1 / (sigma * Math.sqrt(2 * Math.PI))) * \n       Math.exp(-0.5 * Math.pow((x - mu) / sigma, 2))\n  }));\n}\n\nPlot.plot({\n  style: \"overflow: visible; display: block; margin: 0 auto;\",\n  width: 600,\n  height: 400,\n  y: {\n    grid: true,\n    label: \"Density\"\n  },\n  x: {\n    label: \"x\",\n    domain: [-5, 5]\n  },\n  marks: [\n    Plot.line(pointsGaussian, {x: \"x\", y: \"y\", stroke: \"steelblue\"}),\n    Plot.ruleY([0])\n  ]\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhtml`&lt;div style=\"text-align: center; margin-top: 1em;\"&gt;\n  &lt;p&gt;${tex`\\mathbb{E}[X] =`} ${mu.toFixed(3)}&lt;/p&gt;\n  &lt;p&gt;${tex`\\text{Var}(X) =`} ${(sigma * sigma).toFixed(3)}&lt;/p&gt;\n&lt;/div&gt;`\n\n\n\n\n\n\n\n\n\n\nPython Code: Gaussian Distribution\nTo create Gaussian distributed data using numpy:\nimport numpy as np\n\nmu = 0\nsigma = 1\nsize = (1000,1)\n\ndata = np.random.normal(mu, sigma, size)"
+  },
+  {
+    "objectID": "math/content/probability/07-prob-dist.html#beta-distribution",
+    "href": "math/content/probability/07-prob-dist.html#beta-distribution",
+    "title": "Probability Distributions",
+    "section": "Beta Distribution",
+    "text": "Beta Distribution\n\\[\nf_{X}(x) = {\\frac {\\Gamma (\\alpha +\\beta )}{\\Gamma (\\alpha )\\Gamma (\\beta )}}\\,x^{\\alpha -1}(1-x)^{\\beta -1}\n\\]\nwhere \\(\\Gamma\\) is the gamma function defined as:\n\\[\n\\Gamma (z)=\\int _{0}^{\\infty}t^{z-1}e^{-t}\\,dt\n\\]\n\nGamma functions are used to model factorial functions of complex numbers \\(z\\).\nBeta functions are used to model behavior of random variables in intervals of finite length.\n\\(E[X] = \\frac{\\alpha}{\\alpha+\\beta}\\)\n\\(Var[X] = \\frac{\\alpha\\beta}{(\\alpha+\\beta)^2(\\alpha+\\beta+1)}\\)\n\n\n\nviewof alpha = Inputs.range([0.1, 10], {\n  step: 0.1,\n  value: 1,\n  label: tex`\\alpha`,\n  width: 200\n})\n\nviewof beta = Inputs.range([0.1, 10], {\n  step: 0.1,\n  value: 1,\n  label: tex`\\beta`,\n  width: 200\n})\n\n// Gamma function approximation using Lanczos approximation\nfunction gamma(z) {\n    const p = [676.5203681218851, -1259.1392167224028, 771.32342877765313,\n        -176.61502916214059, 12.507343278686905, -0.13857109526572012,\n        9.9843695780195716e-6, 1.5056327351493116e-7];\n    \n    if (z &lt; 0.5) {\n        return Math.PI / (Math.sin(Math.PI * z) * gamma(1 - z));\n    }\n    \n    z -= 1;\n    let x = 0.99999999999980993;\n    for (let i = 0; i &lt; p.length; i++) {\n        x += p[i] / (z + i + 1);\n    }\n    \n    const t = z + p.length - 0.5;\n    return Math.sqrt(2 * Math.PI) * Math.pow(t, z + 0.5) * Math.exp(-t) * x;\n}\n\n// Beta function using gamma function\nfunction betaFunc(x, y) {\n    return (gamma(x) * gamma(y)) / gamma(x + y);\n}\n\n// Beta probability density function\nfunction betaPDF(x, a, b) {\n    if (x &lt;= 0 || x &gt;= 1) return 0;\n    return Math.pow(x, a - 1) * Math.pow(1 - x, b - 1) / betaFunc(a, b);\n}\n\n// Generate points for the beta distribution curve\npoints = Array.from({length: 100}, (_, i) =&gt; {\n  let x = 0.001 + i * 0.01;\n  return { x, y: betaPDF(x, alpha, beta) };\n});\n\nPlot.plot({\n  style: \"overflow: visible; display: block; margin: 0 auto;\",\n  width: 600,\n  height: 400,\n  y: {\n    grid: true,\n    label: \"Density\"\n  },\n  x: {\n    label: \"x\",\n    domain: [0, 1]\n  },\n  marks: [\n    Plot.line(points, {x: \"x\", y: \"y\", stroke: \"steelblue\"}),\n    Plot.ruleY([0])\n  ]\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhtml`&lt;div style=\"text-align: center; margin-top: 1em;\"&gt;\n  &lt;p&gt;${tex`\\mathbb{E}[X] =`} ${(alpha/(alpha + beta)).toFixed(3)}&lt;/p&gt;\n  &lt;p&gt;${tex`\\text{Var}(X) =`} ${((alpha * beta)/((alpha + beta)**2 * (alpha + beta + 1))).toFixed(3)}&lt;/p&gt;\n&lt;/div&gt;`\n\n\n\n\n\n\n\n\n\n\nPython Code: Beta Distribution\nTo create Beta distributed data using numpy:\nimport numpy as np \n\nalpha = 0.5\nbeta = 0.5\nsize = (1000,1)\n\ndata = np.random.beta(alpha, beta, size)"
   }
 ]

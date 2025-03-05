@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: "_site" 
+  render:
+    - "*.qmd"
+    - "content/**/*.qmd"
+
+website:
+  favicon: "data/images/gw-logo.png"
+  sidebar:
+    logo: "data/images/gw-logo.png"
+    tools:
+      - icon: github
+        href: "https://github.com/GW-datasci"
+      - icon: linkedin
+        href: https://www.linkedin.com/groups/8835265/
+      - icon: envelope
+        href: mailto:datasci@gwu.edu
+    contents:
+      - section: "Probability"
+        contents:
+          - text: "Set Theory"
+            href: content/probability/01-set-theory.qmd
+          - text: "Axiomatic Probability"
+            href: content/probability/02-axiomatic.qmd
+          - text: "Conditioning"
+            href: content/probability/03-conditioning.qmd
+          - text: "Independence"
+            href: content/probability/04-independence.qmd
+          - text: "Discrete Random Variables"
+            href: content/probability/05-discrete-rv.qmd
+          - text: "Continuous Random Variables"
+            href: content/probability/06-continuous-rv.qmd
+          - text: "Probability Distributions"
+            href: content/probability/07-prob-dist.qmd
+  search: 
+    location: sidebar
+
+format:
+  html:
+    bread-crumbs: false
+    grid:
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    toc: true
+    mainfont: "Avenir-Next"
+    css: styles.css

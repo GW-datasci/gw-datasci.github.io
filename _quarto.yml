@@ -1,23 +1,21 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "math/**"
 
 website:
-  # page-footer:
-  #   center: 
-  #     - text: "About"
-  #       href: about.qmd
   favicon: "data/images/gw-logo.png"
   sidebar:
     style: "floating"
     logo: "data/images/gw-logo.png"
     tools:
-    - icon: github
-      href: "https://github.com/GW-datasci"
-    - icon: linkedin
-      href: https://www.linkedin.com/groups/8835265/
-    - icon: envelope
-      href: mailto:datasci@gwu.edu
+      - icon: github
+        href: "https://github.com/GW-datasci"
+      - icon: linkedin
+        href: https://www.linkedin.com/groups/8835265/
+      - icon: envelope
+        href: mailto:datasci@gwu.edu
     contents:
       - section: "Help Desk"
         contents:
@@ -29,31 +27,31 @@ website:
             href: content/helpdesk/installation-guides.qmd
           - text: "Schedule Appointment"
             href: content/helpdesk/schedule-appointment.qmd
-          # - text: "FAQ"
-  #     - section: "Academic Resources"
-  #       contents:
-  #         - text: Data Science Setup
-  #           href: content/academic-resources/data-science-setup.qmd
-  #         - text: Learning Resources
-  #           href: content/academic-resources/learning-resources.qmd
-  #         - text: Cheatsheets
-  #         - text: Course Roadmap
-  #           href: content/academic-resources/course-roadmap.qmd
-  #         - text: Python for Data Science
-  #         - text: Math for Data Science
-  #     - section: "Research"
-  #       contents:
-  #         - text: "Template"
-  #         - text: "Previous Research"
-  #         - text: "Proposals"
-  #     - section: "Capstone"
-  #       contents:
-  #         - text: "Template"
-  #         - text: "Previous Capstone"
-  #           href: content/capstone/previous-capstone.qmd
-  #         - text: "Proposals"
-  # search: 
-  #   location: sidebar
+      #     - text: "FAQ"
+      # - section: "Academic Resources"
+      #   contents:
+      #     - text: "Math for Data Science"
+      #       href: math/_site/index.html
+      #     - text: Data Science Setup
+      #       href: content/academic-resources/data-science-setup.qmd
+      #     - text: Learning Resources
+      #       href: content/academic-resources/learning-resources.qmd
+      #     - text: Cheatsheets
+      #     - text: Course Roadmap
+      #       href: content/academic-resources/course-roadmap.qmd
+      # - section: "Research"
+      #   contents:
+      #     - text: "Template"
+      #     - text: "Previous Research"
+      #     - text: "Proposals"
+      # - section: "Capstone"
+      #   contents:
+      #     - text: "Template"
+      #     - text: "Previous Capstone"
+      #       href: content/capstone/previous-capstone.qmd
+      #     - text: "Proposals"
+  search: 
+    location: sidebar
 
 format:
   html:

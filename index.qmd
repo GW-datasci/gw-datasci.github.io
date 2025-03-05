@@ -6,7 +6,6 @@ title: "GW Data Science"
 👋 Welcome to the official landing page for GW Data Science students! This site is designed to help you get the most out of your data science journey at The George Washington University.
 :::
 
-
 ```{=html}
 <style>
   h1 {
